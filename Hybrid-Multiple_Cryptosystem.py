@@ -1,5 +1,4 @@
 import secrets
-from sys import getsizeof
 from Crypto.Cipher import AES
 import rsa
 def keys():
